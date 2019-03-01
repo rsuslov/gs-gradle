@@ -1,7 +1,5 @@
 package hello;
 
 public class Greeter {
-  public String sayHello() {
-    return "Hello world!";
-  }
+  static final String strVal = "Hello, world!";
 }
